@@ -9,7 +9,7 @@
   
   inputs.src-swayipc-1_1_1.flake = false;
   inputs.src-swayipc-1_1_1.owner = "disruptek";
-  inputs.src-swayipc-1_1_1.ref   = "refs/tags/1.1.1";
+  inputs.src-swayipc-1_1_1.ref   = "1_1_1";
   inputs.src-swayipc-1_1_1.repo  = "swayipc";
   inputs.src-swayipc-1_1_1.type  = "github";
   
