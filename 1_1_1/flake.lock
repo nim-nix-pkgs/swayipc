@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "v1_5_23",
-        "lastModified": 1648152293,
-        "narHash": "sha256-chQE0VNTamd11xDkYOyirPQH/0ADwtU4ECpEJIUkitU=",
+        "lastModified": 1648162991,
+        "narHash": "sha256-tV9CXtg3ZHM7zTScu0UCNZnlwQJURcnUkm9LYfSlv70=",
         "owner": "nim-nix-pkgs",
         "repo": "cligen",
-        "rev": "5add6a32b82f4fd6649c8a5319e628e69cde5669",
+        "rev": "23f12e283a0b2865b94487e828465a5e43eff0bb",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "v0_4_10",
-        "lastModified": 1648107829,
-        "narHash": "sha256-08z8Zh7NpINFA4BST58xYPJ/Imk1cabt//M45NOWiHo=",
+        "lastModified": 1648163314,
+        "narHash": "sha256-oenHPTI5BF+05IOGZ7A8bMIFp2WnH1DzOUpaeCR5uck=",
         "owner": "nim-nix-pkgs",
         "repo": "nesm",
-        "rev": "8de6e76d4a07c73b53003d92f1a02fceec75bc73",
+        "rev": "9f2ab1d10ef4ecfe1d7e25241685abb8b0a89f06",
         "type": "github"
       },
       "original": {
